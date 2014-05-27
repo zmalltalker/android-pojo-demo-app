@@ -1,0 +1,3 @@
+[submodule "android-pojo-demo"]
+	path = android-pojo-demo
+	url = https://github.com/zmalltalker/android-pojo-demo.git
